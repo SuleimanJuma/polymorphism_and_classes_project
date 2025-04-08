@@ -1,4 +1,3 @@
-# activity_2/main.py
 
 # Base class Animal
 class Animal:
