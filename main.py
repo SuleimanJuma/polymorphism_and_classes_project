@@ -1,4 +1,4 @@
-# Simple Smartphone class
+#  Smartphone class
 class Smartphone:
     def __init__(self, brand, model):
         self.brand = brand
